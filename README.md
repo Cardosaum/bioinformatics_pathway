@@ -53,19 +53,19 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 ### 1st Year
 
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
-BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week
-CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week
-COMP 1311a | [CS 1 - Python 1 ](https://www.coursera.org/learn/interactive-python-1) | 5 Weeks | 6 Hours/Week
-COMP 1311b | [CS 1 - Python 2 ](https://www.coursera.org/learn/interactive-python-2) | 4 Weeks | 6 Hours/Week
-COMP 1311c | [CS 1 - Principles of Computing 1 ](https://www.coursera.org/learn/principles-of-computing-1) | 4 Weeks | 6 Hours/Week
-COMP 1311d | [CS 1 - Principles of Computing 2 ](https://www.coursera.org/learn/principles-of-computing-2) | 4 Weeks | 6 Hours/Week
-MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
-MATH 1312 | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | 4 Weeks | 6 Hours/Week
-MATH 1313 | [Calculus 1 - Functions](https://www.coursera.org/learn/single-variable-calculus) | 3 Weeks | 8 Hours/Week
-MATH 1314 | [Calculus 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus) | 3 Weeks | 8 Hours/Week
-MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
+Status | Code | Course | Duration | Effort
+:--: | :-- | :--: | :--: | :--:
+- [ ] | BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week
+- [ ] | CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week
+- [ ] | COMP 1311a | [CS 1 - Python 1 ](https://www.coursera.org/learn/interactive-python-1) | 5 Weeks | 6 Hours/Week
+- [ ] | COMP 1311b | [CS 1 - Python 2 ](https://www.coursera.org/learn/interactive-python-2) | 4 Weeks | 6 Hours/Week
+- [ ] | COMP 1311c | [CS 1 - Principles of Computing 1 ](https://www.coursera.org/learn/principles-of-computing-1) | 4 Weeks | 6 Hours/Week
+- [ ] | COMP 1311d | [CS 1 - Principles of Computing 2 ](https://www.coursera.org/learn/principles-of-computing-2) | 4 Weeks | 6 Hours/Week
+- [ ] | MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
+- [ ] | MATH 1312 | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | 4 Weeks | 6 Hours/Week
+- [ ] | MATH 1313 | [Calculus 1 - Functions](https://www.coursera.org/learn/single-variable-calculus) | 3 Weeks | 8 Hours/Week
+- [ ] | MATH 1314 | [Calculus 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus) | 3 Weeks | 8 Hours/Week
+- [ ] | MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
 
 
 ### 2nd Year
@@ -120,7 +120,7 @@ Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
 COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
-Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
+Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week
 
 
 > Will continue with Master's in Bioinformatics
