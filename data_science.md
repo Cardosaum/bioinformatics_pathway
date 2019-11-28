@@ -1,3 +1,12 @@
+<h3 align="center">Derived from Open Source Society University<a href="https://github.com/open-source-society/data-science">
+    <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg"></h3>
+  </a>
+<p align="center">
+  :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
+  <br><br>
+
+</p>
+
 ## Curriculum
 
 - [Linear Algebra](#linear-algebra)
@@ -85,10 +94,6 @@ Courses | Duration | Effort | Status
 [Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)    [[caltech]](http://work.caltech.edu/lectures.html) | 10 weeks | 10-20 hours/week
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
 [Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
-
-### Project
-Complete Kaggle's Getting Started and Playground Competitions
-
 
 ### Convex Optimization
 
