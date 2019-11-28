@@ -45,15 +45,16 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)| 9 weeks | 15 hours/week
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)| 10 weeks | 15 hours/week
-[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) <br><i>optional</i> | 4 Weeks | 4 Hours/Week
+[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python) <br><i>(optional)</i> | 4 Weeks | 4 Hours/Week
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
 :book: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | ? Weeks | 4 Hours/Week
 
 ### R
-#### <i> Optional </i>
+#### <i> (optional) </i>
 
 Courses | Duration | Effort
+:-- | :--: | :--:
 :book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | ? Weeks | 4 Hours/Week
 
 ### Probability and Statistics
