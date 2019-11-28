@@ -58,12 +58,7 @@ Courses | Duration | Effort | Status
 
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
-:book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | ? Weeks | 4 Hours/Week | <ul class="ck ck-todolist">
-  <li class="ck-todolist__item">
-    <span class="ck-todolist__item-checkbox"></span>
-    <span class="ck-todolist__item-content">Create a strong device passcode</span>
-  </li>
-</ul>
+:book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | ? Weeks | 4 Hours/Week | <ul><li>- [ ] OK</li></ul>
 
 ### Probability and Statistics
 
