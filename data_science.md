@@ -58,7 +58,7 @@ Courses | Duration | Effort | Status
 
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
-:book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | ? Weeks | 4 Hours/Week &#1365; | <ul><li>- [ ] OK</li></ul>
+:book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | ? Weeks | 4 Hours/Week &#2611; | <ul><li>- [ ] OK</li></ul>
 
 ### Probability and Statistics
 
