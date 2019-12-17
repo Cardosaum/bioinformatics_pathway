@@ -16,6 +16,7 @@
 - [Single Variable Calculus](#single-variable-calculus)
 - [Multivariable Calculus](#multivariable-calculus)
 - [Python](#python)
+- [Algorithms](#algorithms)
 - [Probability and Statistics](#probability-and-statistics)
 - [Introduction to Data Science](#introduction-to-data-science)
 - [Machine Learning](#machine-learning)
@@ -64,6 +65,16 @@ Courses | Duration | Effort | Status
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week | <ul><li>- [ ] OK</li></ul>
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week | <ul><li>- [ ] OK</li></ul>
 :book: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | ? Weeks | 4 Hours/Week | <ul><li>- [ ] OK</li></ul>
+
+### Algorithms
+
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Algorithms 01](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 8 hours/week | <ul><li>- [ ] OK</li></ul>
+[Algorithms 02](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 8 hours/week | <ul><li>- [ ] OK</li></ul>
+[Algorithms 03](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 8 hours/week | <ul><li>- [ ] OK</li></ul>
+[Algorithms 04](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 8 hours/week | <ul><li>- [ ] OK</li></ul>
+
 
 ### R
 #### <i> (optional) </i>
