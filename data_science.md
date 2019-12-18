@@ -46,7 +46,7 @@ Courses | Duration | Effort | Status
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)| 13 weeks | 6-10 hours/week | <ul><li>- [x] OK</li></ul>
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)| 13 weeks | 5-10 hours/week | <ul><li>- [ ] OK</li></ul>
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)| 13 weeks | 5-10 hours/week | <ul><li>- [x] OK</li></ul>
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)| 13 weeks | 6-10 hours/week | <ul><li>- [ ] OK</li></ul>
 
 ### Multivariable Calculus
