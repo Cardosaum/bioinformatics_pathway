@@ -87,7 +87,7 @@ Courses | Duration | Effort | Status
 
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
-[OpenIntro Statistics](https://www.openintro.org/book/os/) <br/> :book: | ? weeks | ? hours/week | <ul><li>- [ ] OK</li></ul>
+:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | ? weeks | ? hours/week | <ul><li>- [ ] OK</li></ul>
 [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
 [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
 [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 weeks | - hours/week
