@@ -33,6 +33,17 @@
 
 ---
 
+### 1 Semester 2020
+
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | ? pages
+:book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | 520 pages | ? hours/week | 40 pages
+:book: [HandsOn Programming with R]() | 247 pages | ? hours/week | 0 pages
+
+
+---
+
 ### Linear Algebra
 
 Courses | Duration | Effort | Status
