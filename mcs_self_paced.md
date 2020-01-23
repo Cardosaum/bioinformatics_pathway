@@ -41,7 +41,7 @@
 
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
-:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | ? pages
+:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 422 pages
 :book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | 520 pages | ? hours/week | 40 pages
 :book: [HandsOn Programming with R](https://rstudio-education.github.io/hopr/) | 247 pages | ? hours/week | 0 pages
 :globe_with_meridians: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | ? hours/week | ? weeks
