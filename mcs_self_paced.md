@@ -39,12 +39,12 @@
 
 ### 1 Semester 2020
 
-Courses | Duration | Effort | Status
-:-- | :--: | :--: | :--:
-:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 0 pages
-:book: [HandsOn Programming with R](https://rstudio-education.github.io/hopr/) | 247 pages | ? hours/week | 0 pages
-:globe_with_meridians: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 469 pages | ? hours/week | 39 pages
-:book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | 520 pages | ? hours/week | 40 pages
+Courses | Duration | Effort | Status | Percentage
+:-- | :--: | :--: | :--: | :--:
+:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 0 pages | 0.00%
+:book: [HandsOn Programming with R](https://rstudio-education.github.io/hopr/) | 247 pages | ? hours/week | 0 pages | 0.00%
+:globe_with_meridians: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) | 469 pages | ? hours/week | 39 pages | 8.32%
+:book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | 520 pages | ? hours/week | 40 pages | 7.69%
 
 
 ---
