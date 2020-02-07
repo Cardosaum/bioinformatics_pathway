@@ -8,15 +8,10 @@
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
 </p>
 
-<span style="text-align: right; font-style: oblique; font-size: 6">Last Update: Fri 07 Feb 2020 06:44:48 PM -03</span>
- <br><br>
 
 ## Current Study
 
 - [1 Semester 2020](#1-semester-2020)
-
-<span style="text-align: right; font-style: oblique; font-size: 6">Last Update: Fri 07 Feb 2020 06:44:48 PM -03</span>
-
 
 ## Curriculum
 
