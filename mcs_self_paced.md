@@ -54,7 +54,7 @@ Courses | Duration | Effort | Status | Percentage
 ---
 
 <details>
-	<summary><h2>Courses on the roadmap</h2></summary>
+	<summary><b><u>Courses on the roadmap</u></b></summary>
 
 ### Linear Algebra
 
