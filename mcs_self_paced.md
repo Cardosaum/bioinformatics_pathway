@@ -10,9 +10,9 @@
 
 </p>
 
-<details>
-	<summary>Table of Contents</summary>
-	
+<details open>
+	<summary><b>Table of Contents</b></summary>
+
 ## Current Study
 
 - [1 Semester 2020](#1-semester-2020)
@@ -52,6 +52,9 @@ Courses | Duration | Effort | Status | Percentage
 
 
 ---
+
+<details>
+	<summary><i>Courses on the roadmap</i></summary>
 
 ### Linear Algebra
 
@@ -166,3 +169,5 @@ Courses | Duration | Effort | Status
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
+
+</details>
