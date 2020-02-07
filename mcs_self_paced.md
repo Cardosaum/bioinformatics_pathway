@@ -12,6 +12,7 @@
 
 <details>
 	<summary>Table of Contents</summary>
+	
 ## Current Study
 
 - [1 Semester 2020](#1-semester-2020)
