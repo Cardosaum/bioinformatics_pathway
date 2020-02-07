@@ -11,7 +11,7 @@
 </p>
 
 <details open>
-	<summary><h2>Table of Contents</h2></summary>
+	<summary><span style="text-decoration:underline;font-style:bold;">Table of Contents</span></summary>
 
 ## Current Study
 
