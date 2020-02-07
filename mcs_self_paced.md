@@ -10,9 +10,6 @@
 
 </p>
 
-<details open>
-	<summary><span style="text-decoration:underline;font-style:bold;">Table of Contents</span></summary>
-
 ## Current Study
 
 - [1 Semester 2020](#1-semester-2020)
@@ -36,7 +33,6 @@
 - [Natural Language Processing](#natural-language-processing)
 - [Capstone Project](#capstone-project)
 - [Specializations](#specializations)
-</details>
 
 ---
 
@@ -53,8 +49,7 @@ Courses | Duration | Effort | Status | Percentage
 
 ---
 
-<details>
-	<summary><i>Courses on the roadmap</i></summary>
+## Courses on the Rodmap
 
 ### Linear Algebra
 
@@ -170,4 +165,3 @@ Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
-</details>
