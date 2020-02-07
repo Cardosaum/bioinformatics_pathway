@@ -10,6 +10,8 @@
 
 </p>
 
+<details>
+	<summary>Table of Contents</summary>
 ## Current Study
 
 - [1 Semester 2020](#1-semester-2020)
@@ -33,7 +35,7 @@
 - [Natural Language Processing](#natural-language-processing)
 - [Capstone Project](#capstone-project)
 - [Specializations](#specializations)
-
+</details>
 
 ---
 
@@ -41,7 +43,7 @@
 
 Courses | Duration | Effort | Status | Percentage
 :-- | :--: | :--: | :--: | :--:
-:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 7 pages | 1.66%
+:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 10 pages | 2.37%
 :book: [HandsOn Programming with R](https://rstudio-education.github.io/hopr/) | 247 pages | ? hours/week | 17 pages | 6.88%
 :globe_with_meridians: [Linear Algebra - Foundations to Frontiers](https://jakevdp.github.io/PythonDataScienceHandbook/) | 548 pages | ? hours/week | 39 pages | 8.32%
 :book: [Python Data Science Handbook](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) | 469 pages | ? hours/week | 68 pages | 14.50%
