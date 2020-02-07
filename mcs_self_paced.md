@@ -7,7 +7,7 @@
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
 </p>
-<span style="text-align: left; font-style: italic;">
+<span style="text-align: left; font-style: italic; font-size: 9">
 Last Update: Fri 07 Feb 2020 06:44:48 PM -03
 </span>
  <br><br>
