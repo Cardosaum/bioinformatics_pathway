@@ -7,9 +7,9 @@
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
 </p>
-<p align="right">
-*Last Update: Fri 07 Feb 2020 06:44:48 PM -03*
-</p>
+
+> Last Update: Fri 07 Feb 2020 06:44:48 PM -03
+
  <br><br>
 
 ## Current Study
