@@ -11,7 +11,7 @@
 </p>
 
 <details open>
-	<summary><b>Table of Contents</b></summary>
+	<summary><h2>Table of Contents</h2></summary>
 
 ## Current Study
 
@@ -54,7 +54,7 @@ Courses | Duration | Effort | Status | Percentage
 ---
 
 <details>
-	<summary><b><u>Courses on the roadmap</u></b></summary>
+	<summary><i>Courses on the roadmap</i></summary>
 
 ### Linear Algebra
 
