@@ -49,6 +49,8 @@ Courses | Duration | Effort | Status | Percentage
 
 ---
 
+<br/>
+
 ## Courses on the Rodmap
 
 ### Linear Algebra
