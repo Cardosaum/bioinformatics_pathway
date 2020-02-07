@@ -42,8 +42,8 @@ Courses | Duration | Effort | Status | Percentage
 :-- | :--: | :--: | :--: | :--:
 :book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 10 pages | 2.37%
 :book: [HandsOn Programming with R](https://rstudio-education.github.io/hopr/) | 247 pages | ? hours/week | 17 pages | 6.88%
-:globe_with_meridians: [Linear Algebra - Foundations to Frontiers](https://jakevdp.github.io/PythonDataScienceHandbook/) | 548 pages | ? hours/week | 39 pages | 8.32%
-:book: [Python Data Science Handbook](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) | 469 pages | ? hours/week | 68 pages | 14.50%
+:globe_with_meridians: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) | 469 pages | ? hours/week | 39 pages | 8.32%
+:book: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | 548 pages | ? hours/week | 68 pages | 14.50%
 :book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | 520 pages | ? hours/week | 40 pages | 7.69%
 
 
