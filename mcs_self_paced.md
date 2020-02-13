@@ -1,3 +1,32 @@
+<style>
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+</style>
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>Warning!</strong> This file will no longer be updated. I opted to move my my study resources and logs to another repository. <br/>
+  You can find a updated version of this file <a href="https://github.com/Cardosaum/mcsrc/blob/master/scripts/study/resources_data/studyCurriculum.md#single-variable-calculus">on this link</a>
+</div>
+
+
 <h3 align="center">Derived from Open Source Society University
   <br>
   <br>
