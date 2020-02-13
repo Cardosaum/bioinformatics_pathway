@@ -1,3 +1,5 @@
+<details>
+    <summary>Header</summary>
 <h3 align="center">Derived from Open Source Society University
   <br>
   <br>
@@ -7,11 +9,13 @@
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
 </p>
+</details>
 
 > Warning! This file will no longer be updated. I opted to move my study resources and logs to another repository. <br/>
   You can find a updated version of this file [on this link](https://github.com/Cardosaum/mcsrc/blob/master/scripts/study/resources_data/studyCurriculum.md#single-variable-calculus)
 
-
+<details>
+    <summary>Content</summary>
 ## Current Study
 
 - [1 Semester 2020](#1-semester-2020)
@@ -42,8 +46,8 @@
 
 Courses | Duration | Effort | Status | Percentage
 :-- | :--: | :--: | :--: | :--:
-:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 10 pages | 2.37%
-:book: [HandsOn Programming with R](https://rstudio-education.github.io/hopr/) | 247 pages | ? hours/week | 17 pages | 6.88%
+:book: [OpenIntro Statistics](https://www.openintro.org/book/os/) | 422 pages | ? hours/week | 18 pages | 4.27%
+:book: [HandsOn Programming with R](https://rstudio-education.github.io/hopr/) | 247 pages | ? hours/week | 39 pages | 15.79%
 :globe_with_meridians: [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) | 469 pages | ? hours/week | 40 pages | 8.53%
 :book: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | 548 pages | ? hours/week | 68 pages | 14.50%
 :book: [R for Data Science](https://r4ds.had.co.nz/introduction.html) | 520 pages | ? hours/week | 40 pages | 7.69%
@@ -169,3 +173,4 @@ Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
 [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
+</details>
