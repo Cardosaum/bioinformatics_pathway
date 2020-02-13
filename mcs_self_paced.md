@@ -12,7 +12,7 @@
 </details>
 
 > Warning! This file will no longer be updated. I opted to move my study resources and logs to another repository. <br/>
-  You can find a updated version of this file [on this link](https://github.com/Cardosaum/mcsrc/blob/master/scripts/study/resources_data/studyCurriculum.md#single-variable-calculus)
+  You can find a updated version of this file [on this link](https://github.com/Cardosaum/mcsrc/blob/master/scripts/study/resources_data/studyCurriculum.md)
 
 <details>
     <summary>Content</summary>
